@@ -1,6 +1,6 @@
 # Bootcamp_UnimedBH_Desafio_ProjetoConceitualBD_ECommerce
 
-Repositorio para a entrega do desafio de projeto: Refinando um Projeto Conceitual de Banco de Dados - E-Commerce 
+Repositório para a entrega do desafio de projeto: Refinando um Projeto Conceitual de Banco de Dados - E-Commerce 
 
 ### Objetivo:
 
